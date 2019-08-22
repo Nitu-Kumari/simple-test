@@ -4,6 +4,5 @@ import React from 'react';
        
     }
 }
-djchjgsdhfgsudwe mxmcnnj
 
     export default PreviousOptimizing;
